@@ -1,6 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
+![Nanthini Muralidaran](https://github.com/nanthinigit/portfolio/blob/main/Images/NanthiniM.png)
   <h1 align="center">Nanthini Muralidaran</h1>
 
   <p align="center">
