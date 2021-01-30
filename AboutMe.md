@@ -2,11 +2,11 @@
  	<h1 align="center">Nanthini Muralidaran</h1>
  	<h3 align="center">Magento Full Stack Developer</h3>
 	<kbd style="margin:auto;width: 50%;padding: 10px;">
-		<img alt ="Nanthini Muralidaran" height=200px" style="margin: auto;width: 50%;padding: 10px;" src="https://github.com/nanthinigit/portfolio/blob/main/Images/NanthiniM.png?raw=true">
+		<img alt ="Nanthini Muralidaran" height=200px" align="center" style="margin: auto;width: 50%;padding: 10px;" src="https://github.com/nanthinigit/portfolio/blob/main/Images/NanthiniM.png?raw=true">
 	</kbd>
-	<p style="max-width: 460px; float: right; line-height: 25px;"> 
+	<h3 align="center"> 
 		Lead Software Engineer with more than 6 years of experience in the IT industry. Has experience with Magento eCommerce platform in Analysis, Design, Research and Development,       Programming, Testing, Deployment and Documentation. Also, have hands-on experience in InforM3 ERP functional areas and Infor ION component. Also, a mentor and good team player     who can handle people and work independently on critical tasks.
-	</p>
+	</h3>
 
 ## Technology Stack 🛠️
 
