@@ -11,6 +11,7 @@
   </div>
 
 ## Technology Stack 🛠️
+
 #### BACKEND
 - PHP
 - Magento2 Framework
