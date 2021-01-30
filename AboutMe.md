@@ -1,8 +1,13 @@
 <div style="width:1096px;margin: auto;width: 80%;border: 2px solid black;padding: 10px;">
  	<h1 align="center">Nanthini Muralidaran</h1>
-	<h3 style="margin: auto;width: 50%;padding: 10px;"> 
-		Lead Software Engineer with more than 6 years of experience in the IT industry. Has experience with Magento eCommerce platform in Analysis, Design, Research and Development,       Programming, Testing, Deployment and Documentation. Also, have hands-on experience in InforM3 ERP functional areas and Infor ION component. Also, a mentor and good team player     who can handle people and work independently on critical tasks.
+	<h3 style="align="center"> 
+		<kbd>
+			<img alt ="Nanthini Muralidaran" height=200px" src="https://github.com/nanthinigit/portfolio/blob/main/Images/NanthiniM.png?raw=true">
+		</kbd>
 	</h3>
+	<p>
+		Lead Software Engineer with more than 6 years of experience in the IT industry. Has experience with Magento eCommerce platform in Analysis, Design, Research and Development,       Programming, Testing, Deployment and Documentation. Also, have hands-on experience in InforM3 ERP functional areas and Infor ION component. Also, a mentor and good team player     who can handle people and work independently on critical tasks.
+	</p>
 
 ## Technology Stack 🛠️
 
