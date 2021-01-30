@@ -49,6 +49,10 @@
 Agile Methodology
 
 #### OTHERS
-Infor M3 ERP & Infor ION Component (Both On-Premises & Cloud), WAMP, XAMP, LAMP, Bootstrap Framework, Swagger, SoapUI, POSTMAN, JIRA, Yodiz
+- Infor M3 ERP & Infor ION Component (Both On-Premises & Cloud)
+- WAMP, XAMP, LAMP
+- Bootstrap Framework
+- SoapUI, Swagger, POSTMAN
+- JIRA, Yodiz
 
 </div>
