@@ -56,4 +56,32 @@ Agile Methodology
 - SoapUI, Swagger, POSTMAN
 - JIRA, Yodiz
 
+## Work Experience: 🛠️
+
+### Product – LeanSwift Supplier Portal (Internal)
+<p style="max-width: 460px; float: right; line-height: 25px;"> 
+	LeanSwift Supplier Portal is a supplier self-service portal that enables efficient online communication with vendors. It is seamlessly integrated with Infor M3 Cloudsuite via ION. Supplier Portal helps automate the entire purchase-to-pay process for the customer.
+</p>
+
+### Product – LeanSwift eConnect SX.e/CSD (Internal)
+<p style="max-width: 460px; float: right; line-height: 25px;"> 
+	LeanSwift eConnect for Infor Distribution SX.e/CloudSuite Distribution is a Magento extension that provides simple yet powerful integration between Magento eCommerce platform and Infor Distribution SX.e ERP/CloudSuite Distribution.
+</p>
+
+### Product – Leanswift eConnect for M3 (Internal)
+<p style="max-width: 460px; float: right; line-height: 25px;"> 
+	LeanSwift eConnect enables a secure two-way communication between your Magento webstore and your Infor M3 system. The Magento extension offers configuration options to control the interaction between Magento, LeanSwift eLink and Infor M3.
+</p>
+
+### Client - Metropolitan Hardwood Floors
+<p style="max-width: 460px; float: right; line-height: 25px;"> 
+	An internal project for Metropolitan Hardwood floors which allows them to search the status of their product, stock details.
+</p>
+
+### Product – LeanSwift Marketplace
+<p style="max-width: 460px; float: right; line-height: 25px;"> 
+	A cloud marketplace where you can enable ERP functionality in mobile and web applications and let these securely connect to your ERP backend. You will also be able to find, purchase and download useful ERP extensions.
+</p>
+
+
 </div>
