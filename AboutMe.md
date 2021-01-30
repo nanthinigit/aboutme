@@ -1,5 +1,6 @@
 <div style="width:1096px;margin: auto;width: 80%;border: 2px solid black;padding: 10px;">
   <h1 align="center">Nanthini Muralidaran</h1>
+  <h3 align="center">Magento Full Stack Developer</h3>
   <div style="margin: auto;width: 50%;border: 3px solid green;padding: 10px;">
 	<kbd>
 		<img alt ="Nanthini Muralidaran" height=200px" text-align ="center" src="https://github.com/nanthinigit/portfolio/blob/main/Images/NanthiniM.png?raw=true">
@@ -10,17 +11,39 @@
   </div>
 
 ## Technology Stack 🛠️
-#### PROGRAMMING /FRAMEWORKS
-PHP, Magento2, Web API (REST & SOAP), HTML5, CSS3, LESS Framework, JavaScript, jQuery, Knockout Js 
+#### BACKEND
+- PHP
+- Magento2 Framework
 
+#### FRONTEND
+- HTML
+- CSS
+- LESS Framework
+- JavaScript
+- jQuery
+- Knockout Js 
 
 #### DATABASE
-MySQL Server
+- MySQL Server
 
-#### SERVER & VERSION CONTROL SYSTEMS
-Linux
-GitHub, Tortoise Git and SVN	Development Tools
-PhpStorm, Visual Studio Code, Eclipse, phpMyAdmin, MySQL Workbench and SQL Server.
+#### WEB API SERVICES
+- REST
+- SOAP
+
+#### SERVER
+- Linux(AWS & Nexcess)
+
+#### DEVELOPMENT TOOLS
+- Eclipse
+- Visual Studio Code
+- PhpStorm
+- phpMyAdmin
+- MySQL Workbench
+- SQL Server
+
+#### VERSION CONTROL SYSTEMS
+- GIT
+- SVN
 
 #### SOFTWARE DEVELOPMENT METHODOLOGY
 Agile Methodology
