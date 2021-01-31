@@ -375,10 +375,9 @@ padding:0px;
 /* =============================================================
   CONTACT SECTION STYLES
  ============================================================ */
-#contact {
+/* #contact {
     background: url(../img/clients.jpg) no-repeat center center;
-/*    margin-right: 50px;
-*/  margin-left: -20px;
+    margin-left: -20px;
     padding: 0;
     -webkit-background-size: cover;
     background-size: cover;
@@ -386,13 +385,16 @@ padding:0px;
     background-attachment: fixed;
 }
 
-    #contact .overlay {
-        background-color: rgba(0,0,0,0.1);
-        padding-top: 90px;
-        color: #fff;
-/*        padding-bottom: 100px;
-*/    }
-/* =============================================================
+#contact .overlay {
+    background-color: rgba(0,0,0,0.1);
+    padding-top: 90px;
+    color: #fff;
+   } */
+   #contact {
+       display: none;
+   }
+/* 
+=============================================================
   FOOTER SECTION STYLES
  ============================================================ */
 footer {
