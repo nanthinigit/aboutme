@@ -318,10 +318,11 @@ padding:0px;
   TEAM SECTION STYLES
  ============================================================ */
 #team {
-    background-color: rgba(0,0,0,0.8);
+    /* background-color: rgba(0,0,0,0.8);
     color: #fff;
     padding: 0 100px 0 100px;
-    border-bottom: 3px solid #001;
+    border-bottom: 3px solid #001; */
+    display: none;
 }
 
 .card {
