@@ -1,2 +1,2 @@
-# nanthinigit.github.io
-My portfolio
+# nanthini.github.io
+My Portfolio
