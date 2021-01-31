@@ -158,7 +158,7 @@ padding:0px;
         font-size: 45px;
         font-weight: 900;
         padding-top: 30px;
-        padding-bottom: 30px;
+        padding-bottom: 0px;
         color: #1ff1ff;
         opacity: 0.5;
     }
@@ -167,7 +167,7 @@ padding:0px;
     #header h4 {
         line-height: 32px;
         font-size: 15px;
-        padding-bottom: 0px;
+        padding-bottom: 10px;
         /*text-transform: uppercase;*/
     }
 
